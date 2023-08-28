@@ -30,6 +30,8 @@ export default {
   com_ui_pay_per_call: 'All AI conversations in one place. Pay per call and not per month',
   com_auth_error_login:
     'Unable to login with the information provided. Please check your credentials and try again.',
+  com_auth_error_login_rl:
+    'Too many login attempts from this IP in a short amount of time. Please try again later.',
   com_auth_no_account: 'Don\'t have an account?',
   com_auth_sign_up: 'Sign up',
   com_auth_sign_in: 'Sign in',
